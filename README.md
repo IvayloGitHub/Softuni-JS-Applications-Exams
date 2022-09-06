@@ -1,1 +1,1 @@
-# Softuni-JS-Applications-Exams
+# Softuni-JS-Applications-Exams-Solved
